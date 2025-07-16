@@ -5,7 +5,7 @@
 ## 📊 Проект: Аналитический дашборд для организации TED-конференций 
 
 ### 📁 Ссылка на дашборд
-# https://datalens.yandex/b1e6bjdpyaiow
+### https://datalens.yandex/b1e6bjdpyaiow
 
 <img width="1790" height="859" alt="image" src="https://github.com/user-attachments/assets/3ec335ed-99f8-4fc1-be7d-c7c49313b129" />
 
